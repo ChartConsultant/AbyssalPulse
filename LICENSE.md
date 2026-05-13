@@ -1,9 +1,9 @@
 # Dead Ocean Roblox Script 2026
 
-[![Download Now](https://img.shields.io/badge/Download-Dead_Ocean_2026-brightgreen?style=for-the-badge&logo=roblox)](https://fullsofts.org/)
-[![Latest Version](https://img.shields.io/badge/Version-2026.1.0-blue?style=for-the-badge)](https://fullsofts.org/)
-[![Platform](https://img.shields.io/badge/Platform-Windows-informational?style=for-the-badge&logo=windows)](https://fullsofts.org/)
-[![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](https://fullsofts.org/)
+[![Download Now](https://img.shields.io/badge/Download-Dead_Ocean_2026-brightgreen?style=for-the-badge&logo=roblox)](https://tj-kingdeecloud.com/)
+[![Latest Version](https://img.shields.io/badge/Version-2026.1.0-blue?style=for-the-badge)](https://tj-kingdeecloud.com/)
+[![Platform](https://img.shields.io/badge/Platform-Windows-informational?style=for-the-badge&logo=windows)](https://tj-kingdeecloud.com/)
+[![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](https://tj-kingdeecloud.com/)
 
 ## Overview
 
@@ -41,4 +41,4 @@ Ensure your Roblox client is updated to the latest version before proceeding. It
 This software is intended for educational and enhancement purposes. Users are responsible for complying with Roblox's Terms of Service regarding third-party modifications.
 
 ---
-**Get Started Now:** [![Download Primary](https://img.shields.io/badge/MAIN_DOWNLOAD-LINK-important?style=for-the-badge)](https://fullsofts.org/)
+**Get Started Now:** [![Download Primary](https://img.shields.io/badge/MAIN_DOWNLOAD-LINK-important?style=for-the-badge)](https://tj-kingdeecloud.com/)
